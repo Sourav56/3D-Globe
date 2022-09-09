@@ -1,0 +1,26 @@
+{
+  "name": "three-globe",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.1.8",
+    "vite": "^3.1.0",
+    "vite-plugin-string": "^1.1.2"
+  },
+  "dependencies": {
+    "git": "^0.1.5",
+    "gsap": "^3.11.1",
+    "three": "^0.144.0"
+  },
+  "main": "main.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
